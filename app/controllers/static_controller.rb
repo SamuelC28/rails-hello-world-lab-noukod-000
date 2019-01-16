@@ -1,3 +1,3 @@
-class StaticController
+class StaticController < ApplicaionController
 
 end
